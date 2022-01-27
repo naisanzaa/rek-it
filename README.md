@@ -37,7 +37,7 @@ https://en.wikipedia.org/wiki/University_of_Virginia
 ## solution 3
 
 * link wasn't working
-* skeleton code [solution_4/a_3.py](solution_3/a_3.py)
+* skeleton code [solution_3/a_3.py](solution_3/a_3.py)
 
 ## solution 4
 
